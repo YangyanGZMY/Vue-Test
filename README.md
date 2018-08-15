@@ -20,7 +20,7 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-8.15版本中：
+18.8.15版本中：
 
 动态跳转标签menu，
 手撸分页器（localhost:8082/#/manage/testPich）
