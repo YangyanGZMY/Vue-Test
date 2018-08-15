@@ -1,0 +1,1 @@
+export const SET_STAFF_INFO = 'SET_STAFF_INFO'
